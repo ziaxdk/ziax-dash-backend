@@ -1,0 +1,8 @@
+node_modules/
+es/server/
+es/bat/
+zip/
+build/
+_config.json
+.ftppass
+es_log.json
